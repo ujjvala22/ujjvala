@@ -1,2 +1,3 @@
 hello
 added a new line
+one new line is added
